@@ -1,0 +1,30 @@
+Custom Software License for SigmaNuPy
+
+Version 1.0
+
+Copyright (c) 2023, Lena E. Heffern & Craig J. Hardgrove
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+Acknowledgment/Citation Requirement:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. Additionally, the user must provide proper acknowledgment in any publications or presentations (including but not limited to academic papers, talks, and reports) that utilize this Software. Such acknowledgment should cite or acknowledge either of the following:
+
+The GitHub repository of the Software: https://github.com/lheffern/SigmaNuPy
+The AGU presentation related to the Software: Heffern, L. E, Hardgrove, C.J., & Landis, M.E., (2023, December 11-14). "SigmaNuPy: A Semi-Open-Source Python Toolkit for Planetary Nuclear Instrument Sensitivity Assessment Using MCNP," [Poster Presentation P11C-2743]. 2023 American Geophysical Union Conference, San Francisco, CA, United States. 
+
+Disclaimer of Liability:
+In no event shall the authors or copyright holders be liable for any claim, damages, or other liabilities, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+No Warranty:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Associated Government Software Clause:
+
+Separation of Software:
+This Software, referred to as "SigmaNuPy", is designed to be used in conjunction with MCNP6.1 United States government software, but it is an independent work, not associated with the development, distribution, or licensing of the U.S. government software. The source code and intellectual property rights of the associated U.S. government software remain the property of the U.S. Government. This Software does not provide the source code for the U.S. government software.
+
+Access to Government Software:
+To use "SigmaNuPy" in conjunction with the United States government software MCNP6.1, users must separately obtain a license for the U.S. government software. This can be done by visiting https://rsicc.ornl.gov/ and completing the necessary forms to be approved and granted a license. It is the user's responsibility to comply with all terms and conditions set forth in the license agreement for the U.S. government software.
+
+No Liability for Government Software:
+The authors of "SigmaNuPy" assume no responsibility and shall not be liable for any claims, damages, or other liabilities arising from the use of the associated U.S. government software. Users of "SigmaNuPy" must understand that any issues, defects, or legal matters pertaining to the U.S. government software are the sole responsibility of the entity providing the U.S. government software, and not of the authors of "SigmaNuPy".
