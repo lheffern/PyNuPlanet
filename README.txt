@@ -1,6 +1,6 @@
 # SigmaNuPy
 #-------------------------------------------------------------------------------------------------------------
-
+Space Investigation Geoscience Mission Assessment of Nuclear instruments toolkit using Python
   ____  _                       _   _       ____
  / ___|(_) __ _ _ __ ___   __ _| \ | |_   _|  _ \ _   _
  \___ \| |/ _` | '_ ` _ \ / _` |  \| | | | | |_) | | | |
