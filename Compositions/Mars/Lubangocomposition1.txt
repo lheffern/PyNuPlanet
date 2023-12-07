@@ -1,4 +1,4 @@
-c Lubango composition, rho ~ -1.6 g/cc  ++++++++++++++
+c Lubango composition, rho ~ -1.6 g/cc via MSL ++++++++++++++
 m7    1001.70c  -0.001663893    $H
       8016.70c  -0.495935531    $O
       11023.70c   -0.011767857    $Na-23
