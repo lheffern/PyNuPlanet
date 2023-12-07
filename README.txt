@@ -20,9 +20,10 @@ Craig Hardgrove - chardgro@asu.edu
 Citations:
 The GitHub repository of the Software: https://github.com/lheffern/SigmaNuPy
 The AGU presentation related to the Software: 
-Heffern, L. E, Hardgrove, C.J., & Landis, M.E., (2023, December 11-14). "SigmaNuPy: A Semi-Open-Source Python Toolkit 
-for Planetary Nuclear Instrument Sensitivity Assessment Using MCNP," [Poster Presentation P11C-2743]. 2023 American 
-Geophysical Union Conference, San Francisco, CA, United States. 
+Heffern, L. E, Hardgrove, C.J., & Landis, M.E., (2023, December 11-14). "SigmaNuPy: A Semi-Open-Source 
+Python Toolkit for Planetary Nuclear Instrument Sensitivity Assessment Using MCNP," 
+[Poster Presentation P11C-2743]. 2023 American Geophysical Union Conference, San Francisco, 
+CA, United States. 
 #-------------------------------------------------------------------------------------------------------------
 PLEASE READ THE LICENSING INFORMATION BEFORE UTILIZING THIS SOFTWARE. BY USING THIS SOFTWARE YOU AGREE TO THE LICENSE.
 #-------------------------------------------------------------------------------------------------------------
