@@ -181,6 +181,11 @@ Reviews 112 (3), 1882-1909. DOI: 10.1021/cr200221x
 [8] Meteorite compositions based on averaging of compositional information from MetBase, 
 https://www.metbase.org/sites/Metbase_GUI_new/
 
+[9] Lethuillier, A., Le Gall, A., Hamelin, M., Caujolle-Bert, S., Schreiber, F., Carrasco, N., et al. 
+(2018). Electrical properties of tholins and derived constraints on the Huygens landing site 
+composition at the surface of Titan. Journal of Geophysical Research: Planets, 123, 807–822. 
+https://doi.org/10.1002/2017JE005416
+
 
 MCNP Code & Information:
 
