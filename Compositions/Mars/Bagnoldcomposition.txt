@@ -1,4 +1,4 @@
-c Bagnold composition, rho = -1.6 g/cc via Craig ++++++++++++++++++++++++
+c Bagnold composition, rho = -1.6 g/cc via MSL ++++++++++++++++++++++++
 m7  1001.70c  -0.001663893  $H
     8016.70c  -40.92360838  $O
     11023.70c  -1.676597896  $Na-23
