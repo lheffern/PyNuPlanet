@@ -1,4 +1,4 @@
-c Titan tholin Material, rho =  -1.4 g/cc based on A. Lethuillier et al 2018 +++++++
+c Titan hot tholin Material, rho =  -1.4 g/cc based on A. Lethuillier et al 2018 +++++++
 m7    1001.70c      -10.92325      $H
       6012.70c      -69.96572      $C-12
       6013.70c      -0.77818      $C-13
