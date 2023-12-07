@@ -86,17 +86,18 @@ MiscPrograms folder             TBR
 ==============================================================================================================
 BaseMx folder                   MCNP base files; these should be raw MCNP.mx files that can be used as inputs
                                 into the GenerateMCNPElementGrid file; active files are labeled, if not labeled
-                                as active assume it is a passive file, but check the MCNP cards - it is active if
-                                there is an obvious Time Card! SPECIFIC FORMAT IN USE PLEASE FOLLOW IT!
+                                as active assume it is a passive file, but check the MCNP cards - it is active
+                                if there is an obvious Time Card! SPECIFIC FORMAT IN USE PLEASE FOLLOW IT!
 ==============================================================================================================
-DetectorFiles folder            Files here are literally detector in an empty vacuum bubble; you should be using these
-                                files as an input into the GenerateDetectorFile program; the DetectorFile.mx file gets
-                                the output from the GenerateMCNPElementGrid basefile_composition.outputo file shoved
-                                into it; the output from the basefile_composition.outputo is the gamma-ray leakage from
-                                the planetary surface at whatever height you specify the tally height (TBR feature);
-                                this tally leakage is then projected as a disk source onto the detector you choose; the
-                                resulting output is the gamma-ray pulse-height spectrum of the detector; TBR on adding.
-                                SPECIFIC FORMAT IN USE PLEASE FOLLOW IT!
+DetectorFiles folder            Files here are literally detector in an empty vacuum bubble; you should be 
+                                using these files as an input into the GenerateDetectorFile program; the 
+                                DetectorFile.mx file gets the output from the GenerateMCNPElementGrid 
+                                basefile_composition.outputo file shoved into it; the output from the 
+                                basefile_composition.outputo is the gamma-ray leakage from the planetary 
+                                surface at whatever height you specify the tally height (TBR feature); this 
+                                tally leakage is then projected as a disk source onto the detector you choose; 
+                                the resulting output is the gamma-ray pulse-height spectrum of the detector; 
+                                TBR on adding. SPECIFIC FORMAT IN USE PLEASE FOLLOW IT!
 ==============================================================================================================
 Compositions folder             Pretty self-explanatory, but these have a VERY SPECIFIC FORMAT PLEASE USE IT
                                 IF YOU INTEND TO MAKE YOUR OWN COMPOSITIONS!!!
@@ -145,35 +146,35 @@ https://keep.lib.asu.edu/items/171826
 https://keep.lib.asu.edu/_flysystem/fedora/c7/Heffern_asu_0010E_22076.pdf
 
 [2] L.E. Heffern, C.J. Hardgrove, A. Parsons, et al., "Active neutron interrogation experiments and simulation
-verification using the SIngle-scintillator Neutron and Gamma-Ray spectrometer (SINGR) for geosciences,"Nuclear
-Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment,
-Volume 1020, 2021, 165883, ISSN 0168-9002,
-https://doi.org/10.1016/j.nima.2021.165883.
+verification using the SIngle-scintillator Neutron and Gamma-Ray spectrometer (SINGR) for geosciences,"Nuclear 
+Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated 
+Equipment, Volume 1020, 2021, 165883, ISSN 0168-9002, https://doi.org/10.1016/j.nima.2021.165883.
 https://www.sciencedirect.com/science/article/pii/S0168900221008664
 
 
 Materials used in this library:
 
-[1] Prettyman, T. H., Hagerty, J. J., Elphic, R. C., Feldman, W. C., Lawrence, D. J., McKinney, G. W., and Vaniman, 
-D. T. (2006), Elemental composition of the lunar surface: Analysis of gamma ray spectroscopy data from Lunar 
-Prospector, J. Geophys. Res., 111, E12007, doi:10.1029/2005JE002656.
+[1] Prettyman, T. H., Hagerty, J. J., Elphic, R. C., Feldman, W. C., Lawrence, D. J., McKinney, G. W., and 
+Vaniman, D. T. (2006), Elemental composition of the lunar surface: Analysis of gamma ray spectroscopy data 
+from Lunar Prospector, J. Geophys. Res., 111, E12007, doi:10.1029/2005JE002656.
 
-[2] Nowicki, S. F., Evans, L. G., Starr, R. D., Schweitzer, J. S., Karunatillake, S., McClanahan, T. P., Moersch, 
-J. E., Parsons, A. M., and Tate, C. G. (2017), Modeled Martian subsurface elemental composition measurements with 
-the Probing In situ with Neutron and Gamma ray instrument, Earth and Space Science, 4, 76–90, doi:10.1002/2016EA000162.
+[2] Nowicki, S. F., Evans, L. G., Starr, R. D., Schweitzer, J. S., Karunatillake, S., McClanahan, T. P., 
+Moersch, J. E., Parsons, A. M., and Tate, C. G. (2017), Modeled Martian subsurface elemental composition 
+measurements with the Probing In situ with Neutron and Gamma ray instrument, Earth and Space Science, 4, 
+76–90, doi:10.1002/2016EA000162.
 
 [3] Personal communication with S. Czarnecki 2018
 
 [4] Kevin W. Lewis et al. ,A surface gravity traverse on Mars indicates low bedrock density at Gale crater.
 Science363,535-537(2019).DOI:10.1126/science.aat0738
 
-[5] Lawrence, D. J., Feldman, W. C., Elphic, R. C., Hagerty, J. J., Maurice, S., McKinney, G. W., and Prettyman, T. H.
-(2006), Improved modeling of Lunar Prospector neutron spectrometer data: Implications for hydrogen deposits at the 
-lunar poles, J. Geophys. Res., 111, E08001, doi:10.1029/2005JE002637.
+[5] Lawrence, D. J., Feldman, W. C., Elphic, R. C., Hagerty, J. J., Maurice, S., McKinney, G. W., and 
+Prettyman, T. H. (2006), Improved modeling of Lunar Prospector neutron spectrometer data: Implications 
+for hydrogen deposits at the lunar poles, J. Geophys. Res., 111, E08001, doi:10.1029/2005JE002637.
 
-[6] Morgan L. Cable, Sarah M. Hörst, Robert Hodyss, Patricia M. Beauchamp, Mark A. Smith, and Peter A. Willis (2012), Titan 
-Tholins: Simulating Titan Organic Chemistry in the Cassini-Huygens Era, Chemical Reviews 112 (3), 1882-1909. 
-DOI: 10.1021/cr200221x
+[6] Morgan L. Cable, Sarah M. Hörst, Robert Hodyss, Patricia M. Beauchamp, Mark A. Smith, and Peter A. 
+Willis (2012), Titan Tholins: Simulating Titan Organic Chemistry in the Cassini-Huygens Era, Chemical 
+Reviews 112 (3), 1882-1909. DOI: 10.1021/cr200221x
 
 [7] Asteroid materials, personal communication with AstroForge 2022.
 
@@ -183,8 +184,8 @@ https://www.metbase.org/sites/Metbase_GUI_new/
 
 MCNP Code & Information:
 
-[1] D. B. Pelowitz (Ed.) (2005), MCNPX User's Manual Version 2.5.0, Los Alamos Natl. Lab. Doc. LA-CP-05–0369, 
-Los Alamos Natl. Lab., Los Alamos, N. M.
+[1] D. B. Pelowitz (Ed.) (2005), MCNPX User's Manual Version 2.5.0, Los Alamos Natl. Lab. Doc. 
+LA-CP-05–0369, Los Alamos Natl. Lab., Los Alamos, N. M.
 
 [2] Personal communication Christopher Tate, Oak Ridge National Laboratory
 
