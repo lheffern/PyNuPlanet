@@ -13,8 +13,8 @@ A Semi-Open-Source Python Toolkit for Planetary Nuclear Instrument Sensitivity A
 
 #-------------------------------------------------------------------------------------------------------------
 Created by:
-Lena Heffern, PhD
-Craig Hardgrove, PhD
+Lena Heffern - Lheffern@asu.edu; Lena.Heffern@lasp.colorado.edu
+Craig Hardgrove - chardgro@asu.edu
 (c) June 18, 2018 - Dec 6, 2023
 #-------------------------------------------------------------------------------------------------------------
 Citations:
@@ -23,6 +23,8 @@ The AGU presentation related to the Software:
 Heffern, L. E, Hardgrove, C.J., & Landis, M.E., (2023, December 11-14). "SigmaNuPy: A Semi-Open-Source Python Toolkit 
 for Planetary Nuclear Instrument Sensitivity Assessment Using MCNP," [Poster Presentation P11C-2743]. 2023 American 
 Geophysical Union Conference, San Francisco, CA, United States. 
+#-------------------------------------------------------------------------------------------------------------
+PLEASE READ THE LICENSING INFORMATION BEFORE UTILIZING THIS SOFTWARE. BY USING THIS SOFTWARE YOU AGREE TO THE LICENSE.
 #-------------------------------------------------------------------------------------------------------------
   ___ _   _ _____ ____   ___  ____  _   _  ____ _____ ___ ___  _   _ 
  |_ _| \ | |_   _|  _ \ / _ \|  _ \| | | |/ ___|_   _|_ _/ _ \| \ | |
@@ -149,6 +151,48 @@ Volume 1020, 2021, 165883, ISSN 0168-9002,
 https://doi.org/10.1016/j.nima.2021.165883.
 https://www.sciencedirect.com/science/article/pii/S0168900221008664
 
+
+Materials used in this library:
+
+[1] Prettyman, T. H., Hagerty, J. J., Elphic, R. C., Feldman, W. C., Lawrence, D. J., McKinney, G. W., and Vaniman, 
+D. T. (2006), Elemental composition of the lunar surface: Analysis of gamma ray spectroscopy data from Lunar 
+Prospector, J. Geophys. Res., 111, E12007, doi:10.1029/2005JE002656.
+
+[2] Nowicki, S. F., Evans, L. G., Starr, R. D., Schweitzer, J. S., Karunatillake, S., McClanahan, T. P., Moersch, 
+J. E., Parsons, A. M., and Tate, C. G. (2017), Modeled Martian subsurface elemental composition measurements with 
+the Probing In situ with Neutron and Gamma ray instrument, Earth and Space Science, 4, 76–90, doi:10.1002/2016EA000162.
+
+[3] Personal communication with S. Czarnecki 2018
+
+[4] Kevin W. Lewis et al. ,A surface gravity traverse on Mars indicates low bedrock density at Gale crater.
+Science363,535-537(2019).DOI:10.1126/science.aat0738
+
+[5] Lawrence, D. J., Feldman, W. C., Elphic, R. C., Hagerty, J. J., Maurice, S., McKinney, G. W., and Prettyman, T. H.
+(2006), Improved modeling of Lunar Prospector neutron spectrometer data: Implications for hydrogen deposits at the 
+lunar poles, J. Geophys. Res., 111, E08001, doi:10.1029/2005JE002637.
+
+[6] Morgan L. Cable, Sarah M. Hörst, Robert Hodyss, Patricia M. Beauchamp, Mark A. Smith, and Peter A. Willis (2012), Titan 
+Tholins: Simulating Titan Organic Chemistry in the Cassini-Huygens Era, Chemical Reviews 112 (3), 1882-1909. 
+DOI: 10.1021/cr200221x
+
+[7] Asteroid materials, personal communication with AstroForge 2022.
+
+[8] Meteorite compositions based on averaging of compositional information from MetBase, 
+https://www.metbase.org/sites/Metbase_GUI_new/
+
+
+MCNP Code & Information:
+
+[1] D. B. Pelowitz (Ed.) (2005), MCNPX User's Manual Version 2.5.0, Los Alamos Natl. Lab. Doc. LA-CP-05–0369, 
+Los Alamos Natl. Lab., Los Alamos, N. M.
+
+[2] Personal communication Christopher Tate, Oak Ridge National Laboratory
+
+[3] Personal communication Richard Starr, Catholic Univerisities of America
+
+[4] Personal communication Tom Prettyman, Planetary Science Institute
+
+[5] Personal communication Ann Parsons, NASA Goddard
 
 #-------------------------------------------------------------------------------------------------------------
 
