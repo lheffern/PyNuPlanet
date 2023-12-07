@@ -1,4 +1,4 @@
-c Pallasites composition ++++++++++++++++++++++++++++++++++
+c Pallasites composition, rho ~4.76g/cc ++++++++++++
 m7    8016.62c      -42.06382203       $O
       14028.66c      -15.0104325       $Si-28
       14029.62c      -0.7600425       $Si-29
