@@ -1,4 +1,4 @@
-c Stimson composition, rho = -1.6 g/cc via Craig ++++++++++++++++++++++++
+c Stimson composition, rho = -1.6 g/cc via MSL ++++++++++++++++++++++++
 m7  1001.70c  -0.000  $H
     8016.70c  -42.57502145  $O
     11023.70c  -2.084619508  $Na-23
