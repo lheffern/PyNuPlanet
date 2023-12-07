@@ -5,7 +5,6 @@ c CLYC Detector, optional shielding
 100      70 -3.3      -100      $ CLYC detector cell#  materialcard density win100
 c 101      80 -2.7      -101 100
 c 102      90 -8.65     -102 101 $ Cd
-c 102      100 -7.31    -102 101 $ Sn
 c
 c Space bubble definition
 12       0            -12 100   $ imp=1 many km outside
@@ -41,7 +40,6 @@ m123    3006.60c   1   $ Li-6
 c 
 c m80    13027  -1.00000  $ Al
 c m90    48000.51c  1     $ Cd
-c m100   50000  -1.00000  $ Sn
 c 
 C ================================================================
 C *  PHYSICS CARDS    *
