@@ -1,4 +1,4 @@
-c Opaline Silica composition, rho = -1.6 g/cc via Craig ++++++++++++++++++++++++
+c Opaline Silica composition, rho = -1.6 g/cc via MSL ++++++++++++++++++++++++
 m7  8016.70c  -52.0854944  $O
     1001.70c  -0.89  $H
     11023.70c  -0.4  $Na-23
