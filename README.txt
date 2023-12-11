@@ -12,7 +12,7 @@ Space Investigation Geoscience Mission Assessment of Nuclear instruments toolkit
 A Semi-Open-Source Python Toolkit for Planetary Nuclear Instrument Sensitivity Assessment using MCNP
 
 #-------------------------------------------------------------------------------------------------------------
-Created by:
+Created by (feel free to reach out via email):
 Lena Heffern - Lheffern@asu.edu; Lena.Heffern@lasp.colorado.edu
 Craig Hardgrove - chardgro@asu.edu
 (c) June 18, 2018 - Dec 6, 2023
