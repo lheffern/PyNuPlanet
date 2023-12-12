@@ -64,7 +64,7 @@ def updateWTbasic(elementweights,value,elementname='H'):
 #---------------------------------------------------
 '''
 
-CrosssectionFile='Compositions/Crosssections.txt'
+CrosssectionFile='Compositions/CrosssectionsLibrary.txt'
 
 def dictcrosssectionfile(filename): # Reads in the crossection file
     file = open(filename, 'r')
