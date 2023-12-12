@@ -56,7 +56,17 @@ def updateWTbasic(elementweights,value,elementname='H'):
     else:
         return 'Error: Element not in base composition add to MCNPtoolbox.'
 
-def dictcrosssectionfile(filename): # Reads in a composition file
+
+
+'''
+#---------------------------------------------------
+# FOR CROSS-SECTIONS FILES
+#---------------------------------------------------
+'''
+
+CrosssectionFile='Compositions/Crosssections.txt'
+
+def dictcrosssectionfile(filename): # Reads in the crossection file
     file = open(filename, 'r')
     # Read and ignore header line
     HEADER1 = file.readline()
@@ -98,31 +108,3 @@ def dictcrosssectionfile(filename): # Reads in a composition file
         molar_masses.update({isotopenames:float(molar_mass)})
     return abundances,elementMCNPcode,Scat_xsects, Abs_xsects, molar_masses, allnames
 
-
-'''
-#---------------------------------------------------
-# FOR CROSS-SECTIONS FILES
-#---------------------------------------------------
-'''
-
-CrosssectionFile='Compositions/Crosssections.txt'
-
-def readxsectfile(filename=CrosssectionFile):
-    file = open(filename, 'r')
-    nameline = file.readline()
-    LINES = []
-    for line in file:  # Loop over lines and extract variables of interest
-        line = line.split('\t')
-        LINES.append(line)
-    MacroAbs={}
-    MicroAbs = {}
-    MacroScat={}
-    MicroScat = {}
-    for i in range(0, len(LINES)):
-        LIST = LINES[i]
-        Targetname = LIST[0]
-        MacroAbs.update({Targetname:float(LIST[1])})
-        MacroScat.update({Targetname:float(LIST[2])})
-        MicroAbs.update({Targetname:float(LIST[3])})
-        MicroScat.update({Targetname:float(str.strip(LIST[4],'\t'))})
-    return MacroAbs,MacroScat,MicroAbs,MicroScat,Targetname
