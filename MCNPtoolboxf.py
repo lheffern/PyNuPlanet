@@ -5,6 +5,7 @@
 # Most Recent Update: Dec 12, 2023
 # Currently cleaning up code, will continue to release throughout December 2023
 # Next update anticipated: Dec 17, 2023
+# Code originally written in Python 2.7, currently in update process to 3.2
 #---------------------------------------------------
 '''
 import numpy as np
