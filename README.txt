@@ -12,7 +12,8 @@ Space Investigation Geoscience Mission Assessment of Nuclear instruments toolkit
 A Semi-Open-Source Python Toolkit for Planetary Nuclear Instrument Sensitivity Assessment using MCNP
 
 #-------------------------------------------------------------------------------------------------------------
-Beta releases occuring Dec 2023 to March 2024. I got sick with COVID at AGU so now this is delayed.
+Beta releases occuring Dec 2023 to June 2024. I got sick with COVID at AGU so now this is delayed.
+Expect major updates in May 2024, I finally have some funding to finish this!
 #-------------------------------------------------------------------------------------------------------------
 Created by (feel free to reach out via email):
 Lena Heffern - Lheffern@asu.edu; Lena.Heffern@lasp.colorado.edu
