@@ -13,12 +13,12 @@ A Semi-Open-Source Python Toolkit for Planetary Nuclear Instrument Sensitivity A
 
 #-------------------------------------------------------------------------------------------------------------
 Beta releases occuring Dec 2023 to June 2024. I got sick with COVID at AGU so now this is delayed.
-Expect major updates in May 2024, I finally have some funding to finish this!
+Expect major updates starting in Sept 2024 when I have time to work on this project again. - Lena
 #-------------------------------------------------------------------------------------------------------------
 Created by (feel free to reach out via email):
 Lena Heffern - Lheffern@asu.edu; Lena.Heffern@lasp.colorado.edu
 Craig Hardgrove - chardgro@asu.edu
-(c) June 18, 2018 - Dec 6, 2023
+(c) June 18, 2018 - June 10, 2024
 #-------------------------------------------------------------------------------------------------------------
 Citations:
 The GitHub repository of the Software: https://github.com/lheffern/SigmaNuPy
